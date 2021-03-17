@@ -1,2 +1,2 @@
-# MaterialDesignButton #Android
-Design buttons and effect when clicked
+# Button # Android
+Design Buttons and effect in Android
